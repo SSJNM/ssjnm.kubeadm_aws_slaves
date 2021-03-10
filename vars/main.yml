@@ -1,0 +1,10 @@
+---
+# vars file for ssjnm.kubeadm_aws_slaves
+
+### Important variables without which playbook won't run
+
+#Replace the foo with the final path of files folder with the use of / sign of directory. For Ex: 
+#files_path: /root/kubeadm_cloud/files/
+
+files_path: foo
+
